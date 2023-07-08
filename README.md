@@ -4,9 +4,9 @@ We have developed an intelligent steering wheel system that aims to enhance driv
 Here are the example images showcasing the functionalities of our intelligent steering wheel system:
 
 <p float="left">
-  <img src="https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%878.png" alt="Improper Hand Placement" width="270" />
-  <img src="https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%877.png" alt="Driver Fatigue Detection" width="270" /> 
-  <img src="https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%879.png" alt="Drunk Driving Detection" width="270" />
+  <img src="https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%878.png" alt="Improper Hand Placement" width="290" />
+  <img src="https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%877.png" alt="Driver Fatigue Detection" width="290" /> 
+  <img src="https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%879.png" alt="Drunk Driving Detection" width="290" />
 </p>
 
 ## HW/SW Setup
