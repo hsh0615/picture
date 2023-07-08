@@ -1,3 +1,4 @@
+# An intelligent steering wheel reminded by driver's heart
 ## Introduction
 We have developed an intelligent steering wheel system that aims to enhance driver safety and alertness. This system incorporates multiple functionalities to sequentially detect driver behavior, including improper hand placement on the steering wheel, driver fatigue, and drunk driving.
 
@@ -20,10 +21,10 @@ Here are the example images showcasing the functionalities of our intelligent st
 - **TTGO** (WiFi module) for vehicular communication function
 ![hardware](https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%875.png)
 ### 【Software】
-#### PPG SQI Model
+- **PPG SQI Model**
 ![image](https://github.com/hsh0615/picture/blob/main/SQI-good-bad.png)
 ![image](https://github.com/hsh0615/picture/blob/main/accuracy-sqi.png)
-#### Yawn detection Model
+- **Yawn detection Model**
 ![image](https://github.com/hsh0615/picture/blob/main/Yawn.png)
 ![image](https://github.com/hsh0615/picture/blob/main/accuracy-yawn.png)
 
