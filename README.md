@@ -20,10 +20,13 @@ Here are the example images showcasing the functionalities of our intelligent st
 - **TTGO** (WiFi module) for vehicular communication function
 ![hardware](https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%875.png)
 ### 【Software】
+#### PPG SQI Model
+![hardware](https://github.com/hsh0615/picture/blob/main/SQI-good-bad.png)
+![hardware](https://github.com/hsh0615/picture/blob/main/cnn-sqi.png)
+#### Yawn detection Model
+![hardware](https://github.com/hsh0615/picture/blob/main/Yawn.png)
+![hardware](https://github.com/hsh0615/picture/blob/main/Driver-Yawn.png)
 
-- ARC IoT Development Kit SDK
-- Arduino IDE or other compatible development environment
-- Libraries and drivers for PPG sensor, LED, vibration motor, alcohol detector, GPS, and WiFi module
 
 ## User manual
 ### 【Setup on Car】
