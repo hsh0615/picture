@@ -21,12 +21,11 @@ Here are the example images showcasing the functionalities of our intelligent st
 ![hardware](https://github.com/hsh0615/picture/blob/main/%E5%9C%96%E7%89%875.png)
 ### 【Software】
 #### PPG SQI Model
-![hardware](https://github.com/hsh0615/picture/blob/main/SQI-good-bad.png)
-![hardware](https://github.com/hsh0615/picture/blob/main/cnn-sqi.png)
+![image](https://github.com/hsh0615/picture/blob/main/SQI-good-bad.png)
+![image](https://github.com/hsh0615/picture/blob/main/accuracy-sqi.png)
 #### Yawn detection Model
-![hardware](https://github.com/hsh0615/picture/blob/main/Yawn.png)
-![hardware](https://github.com/hsh0615/picture/blob/main/Driver-Yawn.png)
-
+![image](https://github.com/hsh0615/picture/blob/main/Yawn.png)
+![image](https://github.com/hsh0615/picture/blob/main/accuracy-yawn.png)
 
 ## User manual
 ### 【Setup on Car】
